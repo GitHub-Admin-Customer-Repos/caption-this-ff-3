@@ -4,6 +4,8 @@
 - Facilitator: @jasontiedt
 
 ## Class Resources
+- Class Date: Oct 1 - 2 2025
+- Fac....
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
